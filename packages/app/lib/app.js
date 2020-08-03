@@ -1,3 +1,3 @@
 const greeting = require("lib");
 
-console.log(greeting("Sam"));
+console.log(greeting("John"));
